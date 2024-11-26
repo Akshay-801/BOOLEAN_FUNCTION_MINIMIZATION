@@ -56,12 +56,21 @@ assign F2=x6|x7|x8|x9|x10;
 endmodule
 ```
 
+**Logic symbol & Truthtable**
+
+![Screenshot 2024-11-26 162123](https://github.com/user-attachments/assets/49a7e8cb-a212-4483-b59d-ba34b51ee94c)
+
+![Screenshot 2024-11-26 162156](https://github.com/user-attachments/assets/36be79c0-9aef-4743-8f01-4f43478eaa2b)
+
+
 **RTL realization**
 
-**Output:**
+![Screenshot 2024-11-26 162227](https://github.com/user-attachments/assets/43f253ef-8aa6-4cc1-82ca-464ea33629d0)
+
 
 **RTL**
 
+![rtl](https://github.com/user-attachments/assets/b4a25e8b-8a97-45b8-a164-62489bf99c89)
 
 **Result:**
 
